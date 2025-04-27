@@ -1,7 +1,7 @@
 # Pickle Rick CTF
 ![Pickle Rick CTF Banner](./Images/pickle-rick-banner.png)
 -----
-Rick and Morty-themed web exploitation challenge on TryHackMe.
+## Rick and Morty-themed web exploitation challenge on TryHackMe.
 
 🧪 Objectives:
 - Find all three ingredients Rick needs to make his potion.
