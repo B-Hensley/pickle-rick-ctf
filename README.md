@@ -1,5 +1,7 @@
 # Pickle Rick CTF
-
+-----
+![Pickle Rick CTF Banner](./Images/pickle-rick-banner.png)
+-----
 Rick and Morty-themed web exploitation challenge on TryHackMe.
 
 🧪 Objectives:
@@ -11,7 +13,3 @@ Rick and Morty-themed web exploitation challenge on TryHackMe.
 - Privilege escalation
 
 📄 Full Writeup: [writeup.md](./writeup.md)
-
----
-
-![Pickle Rick CTF Banner](./Images/pickle-rick-banner.png)
