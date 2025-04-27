@@ -14,4 +14,4 @@ Rick and Morty-themed web exploitation challenge on TryHackMe.
 
 ---
 
-![Pickle Rick CTF Banner](./path/to/badge.png)
+![Pickle Rick CTF Banner](./Images/pickle-rick-banner.png)
